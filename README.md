@@ -1,4 +1,4 @@
 # Prerna-demo
 This is my first Git Repository.
 <br>
-Author - Prerna Pritam
+Author - Prerna Pritam (MotivLearn)
